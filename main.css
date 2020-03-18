@@ -1,3 +1,7 @@
 body {
     background-color: #bbd957;
 }
+
+p {
+  color: red;
+}
