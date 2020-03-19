@@ -8,6 +8,8 @@ p {
 
 }
 
+
+/*FOOTER*/
 .footer {
   background: #b553b5;
   display: flex;
@@ -35,3 +37,28 @@ p {
 .footer .fa-heart {
   color: #D23333;
 }
+/*FOOTER*/
+
+
+/*BANNER*/
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+/*BANNER*/
