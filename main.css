@@ -45,6 +45,8 @@ p {
   background-size: cover;
   background-position: center;
   padding: 150px 0;
+  max-height: 20px;
+
 }
 
 .banner h1 {
