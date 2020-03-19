@@ -45,7 +45,7 @@ p {
   background-size: cover;
   background-position: center;
   padding: 150px 0;
-  max-height: 20px;
+  height: 50px;
 
 }
 
@@ -64,3 +64,7 @@ p {
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }
 /*BANNER*/
+
+.card {
+  margin-right: 10px;
+}
